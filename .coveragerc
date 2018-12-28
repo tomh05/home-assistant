@@ -567,6 +567,7 @@ omit =
     homeassistant/components/light/lifx.py
     homeassistant/components/light/limitlessled.py
     homeassistant/components/light/lw12wifi.py
+    homeassistant/components/light/magicblue.py
     homeassistant/components/light/mystrom.py
     homeassistant/components/light/nanoleaf_aurora.py
     homeassistant/components/light/niko_home_control.py
